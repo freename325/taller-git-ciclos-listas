@@ -1,2 +1,3 @@
-print("Hola, mundo!")
-print("Mi nombre de usuario es freename325")
+nombre = input("Ingrese su nombre: ")
+
+print(f"Hola, {nombre}!")
