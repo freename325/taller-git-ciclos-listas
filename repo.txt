@@ -1,1 +1,2 @@
-https://github.com/freename325/taller-git-ciclos-listas
+Link del repositorio = https://github.com/freename325/taller-git-ciclos-listas
+Link del pull requests = https://github.com/freename325/taller-git-ciclos-listas/pull/1
